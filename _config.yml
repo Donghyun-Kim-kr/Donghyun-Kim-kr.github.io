@@ -29,7 +29,7 @@ github:
   username: Donghyun-Kim-kr # change to your GitHub username
 
 twitter:
-  username: X # change to your Twitter username
+  username:  # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -46,15 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XZFPHEN0LL"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XZFPHEN0LL');
-</script> # fill in your Google verification code
+  google:  # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
